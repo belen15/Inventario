@@ -6,7 +6,7 @@ Sistema de administración de bienes de uso usando React.
 ## Imagenes
 
 ## Tareas
-[Tareas](https://raw.githubusercontent.com/belen15/Inventario/master/tareas.md)
+[Tareas](https://raw.githubusercontent.com/belen15/Inventario/master/Tareas.md)
 ##Plan de cuentas
 
 ### Bienes de uso
