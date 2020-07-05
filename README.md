@@ -21,5 +21,5 @@ Sistema de administración de bienes de uso usando React.
 #### Software
 Sistema de administración de bienes de uso usando React.
 
-* Item1
-* Item2
+* Item 1
+* Item 2
