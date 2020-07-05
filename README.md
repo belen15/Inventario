@@ -13,11 +13,14 @@ Sistema de administración de bienes de uso usando React.
 ### Bienes de uso
 Sistema de administración de bienes de uso usando React.
 * Maquinas y Equipos
+
 Sistema de administración de bienes de uso usando React.
 * Mobiliario e Instalaciones
+
 Sistema de administración de bienes de uso usando React.
 ### Intangibles
 Sistema de administración de bienes de uso usando React.
 * Software
+
 Sistema de administración de bienes de uso usando React.
 
