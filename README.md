@@ -23,10 +23,3 @@ Sistema de administración de bienes de uso usando React.
 * Software
 
 Sistema de administración de bienes de uso usando React.
-
-`"
-Bien 1
-Bien 2
-" `
-
-** Este texto esta en negrita **

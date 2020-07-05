@@ -9,3 +9,7 @@ Sintaxis
 **Este texto es _en cursiva_ y negrita**
 
 ***Todo este texto es en cursiva y negrita***
+
+`" Este texto aparece con fondo gris
+" `
+
